@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/timgleeson/Development/deductapp'
+let g:netrw_dirhist_2='/Users/timgleeson/Development/deductapp/app'
+let g:netrw_dirhist_3='/Users/timgleeson/Development/deductapp/app/views'
+let g:netrw_dirhist_4='/Users/timgleeson/Development/deductapp/app/views/layouts'
